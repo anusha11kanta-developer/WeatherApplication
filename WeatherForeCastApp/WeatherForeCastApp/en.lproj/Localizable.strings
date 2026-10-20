@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  WeatherForeCastApp
+
+ Created by Anusha on 10/19/26.
+  
+*/
+// English
+"search_city" = "Search City";
+"enter_city" = "Enter city name";
+"weather_title" = "Weather";
+"location_denied" = "Location permission denied.";
+"city_not_found" = "City not found";
+"loading" = "Loading...";
+// Spanish
+"search_city" = "Buscar ciudad";
+"enter_city" = "Ingresa el nombre de la ciudad";
+"weather_title" = "Clima";
+"location_denied" = "Permiso de ubicación denegado.";
+"city_not_found" = "Ciudad no encontrada";
+"loading" = "Cargando...";

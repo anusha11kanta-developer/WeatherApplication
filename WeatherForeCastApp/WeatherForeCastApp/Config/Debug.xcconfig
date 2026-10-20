@@ -1,0 +1,12 @@
+//
+//  Debug.xcconfig
+//  WeatherForeCastApp
+//
+//  Created by Anusha on 10/19/26.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://developer.apple.com/documentation/xcode/adding-a-build-configuration-file-to-your-project
+API_BASE_URL = https://api.openweathermap.org
+OPEN_WEATHER_KEY = 150a13a1cb22a932e5b0ca800f6f5aac
+APP_NAME = WeatherForeCastApp
